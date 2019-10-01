@@ -20,6 +20,6 @@ If train == True, 'log_reg' method is called that computes the gradients and upd
 
 *weights1.np and bias1.np are the learned weights and bias for the model*
 
-Day-Time             |  Low-Light
+Day-Time                   |     Low-Light
 :-------------------------:|:-------------------------:
-![](normal.png)  |  ![](low_light.png)
+![](normal.png)            |  ![](low_light.png)
